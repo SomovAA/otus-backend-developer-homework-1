@@ -15,5 +15,5 @@ Working example
 
 ```
 Working example for Windows
-php console.php checkEquation equal.txt.example
+php ./bin/console.php checkEquation equal.txt.example
 ```
