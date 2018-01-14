@@ -1,0 +1,22 @@
+{
+    "name": "hitenok/otus-backend-developer-homework-1",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexey Somov",
+            "email": "hitenok1@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.0",
+        "php-di/php-di": "^5.4",
+        "symfony/console": "^3.4",
+        "hitenok/validator-algebraic-equation": "0.0.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Homework\\": "src"
+        }
+    }
+}
